@@ -79,25 +79,3 @@ Métricas utilizadas:
 Ao integrar análise exploratória e modelagem preditiva, foi possível transformar dados em **insights estratégicos** e propor ações concretas para redução da evasão.  
 
 Este projeto demonstra a aplicação prática de técnicas de Machine Learning para resolver problemas reais de negócio, com foco em **retenção de clientes e tomada de decisão orientada por dados**.  
-
----
-
-### 🔗 Projeto Relacionado
-📎 Parte 1 – Análise Exploratória e Tratamento de Dados  
-*https://github.com/Johnsantos1989/Challenge-Telecom-X*  
-
----
-
-### 👤 Autor
-**John Lenon Nogueira**  
-Data Science | Machine Learning | Análise de Dados  
-
----
-
-### 🚀 Resultado Final
-Este case consolida:  
-- Análise exploratória  
-- Engenharia de atributos  
-- Modelagem preditiva  
-- Interpretação de modelos  
-- Aplicação estratégica dos resultados  
